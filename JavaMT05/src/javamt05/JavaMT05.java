@@ -89,40 +89,40 @@ public class JavaMT05 {
         } 
         
         if(isplata5000 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata5000+ " novcanica od 5000 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata5000+ " novcanica od 5000 din)");
         }
          if(isplata2000 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata2000+ " novcanica od 2000 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata2000+ " novcanica od 2000 din)");
         }
           if(isplata1000 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata1000+ " novcanica od 1000 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata1000+ " novcanica od 1000 din)");
         }
            if(isplata500 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata500+ " novcanica od 500 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata500+ " novcanica od 500 din)");
         }
             if(isplata200 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata200+ " novcanica od 200 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata200+ " novcanica od 200 din)");
         }
              if(isplata100 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata100+ " novcanica od 100 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata100+ " novcanica od 100 din)");
         }
               if(isplata50 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata50+ " novcanica od 50 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata50+ " novcanica od 50 din)");
         }
                if(isplata20 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata20+ " novcanica od 20 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata20+ " novcanica od 20 din)");
         }
                 if(isplata10 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata10+ " novcanica od 10 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata10+ " novcanica od 10 din)");
         }
                  if(isplata5 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata5+ " novcanica od 5 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata5+ " novcanica od 5 din)");
         }
                   if(isplata2 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata2+ " novcanica od 2 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata2+ " novcanica od 2 din)");
         }
                    if(isplata1 > 0){
-            System.out.println("I(splatiti za isplatu  "+ isplata1+ " novcanica od 1 din)");
+            System.out.println("Isplatiti za isplatu  "+ isplata1+ " novcanica od 1 din)");
         }
     }
     
